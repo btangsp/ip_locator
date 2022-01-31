@@ -1,5 +1,5 @@
 {
-  "name": "docker-tutorial",
+  "name": "ip_locator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
