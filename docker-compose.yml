@@ -6,7 +6,7 @@ services:
     volumes:
       - .:/ip_locator
     ports:
-      - 3000:3000
+      - 3001:3001
     image: app:react
     container_name: react_container
     command: npm start
