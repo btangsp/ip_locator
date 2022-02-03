@@ -1,0 +1,4 @@
+certifi==2021.10.8
+mysql-connector-python==8.0.28
+protobuf==3.19.4
+python-dotenv==0.19.2
