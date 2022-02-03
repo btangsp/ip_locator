@@ -21,7 +21,7 @@ const App = () => {
       </header>
       <main>
         <form>
-          <input type="text" id="ip" name="ip" value={input} onChange={e => handleChange(e.target.value)} />
+          <input type="text" id="ip" name="ip" placeholder="0.0.0.0" value={input} onChange={e => handleChange(e.target.value)} />
           <input type="submit" value="Submit" onClick={e => handleClick(e)} />
         </form>
         <div>
